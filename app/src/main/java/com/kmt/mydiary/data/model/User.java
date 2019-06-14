@@ -1,4 +1,4 @@
-package com.kmt.mydiary.data;
+package com.kmt.mydiary.data.model;
 
 import android.arch.persistence.room.ColumnInfo;
 import android.arch.persistence.room.Entity;

@@ -5,7 +5,7 @@ import android.arch.persistence.room.Delete;
 import android.arch.persistence.room.Insert;
 import android.arch.persistence.room.Query;
 
-import com.kmt.mydiary.data.User;
+import com.kmt.mydiary.data.model.User;
 
 import java.util.List;
 

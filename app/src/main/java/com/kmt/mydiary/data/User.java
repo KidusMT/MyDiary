@@ -26,6 +26,13 @@ public class User {
         return id;
     }
 
+    public User(String name, String password, String username, String email) {
+        this.name = name;
+        this.password = password;
+        this.username = username;
+        this.email = email;
+    }
+
     public void setId(int id) {
         this.id = id;
     }
